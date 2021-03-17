@@ -1,0 +1,8 @@
+users:
+  - name: frank
+    group: hr
+  - name: harry
+    group: manager
+  - name: bob
+    group: developer
+      
