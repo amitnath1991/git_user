@@ -5,4 +5,3 @@ users:
     group: manager
   - name: bob
     group: developer
-      
